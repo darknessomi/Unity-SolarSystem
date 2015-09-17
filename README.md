@@ -1,6 +1,8 @@
 Solar System made in Unity
 ======================
 
+![](http://omi-blog.qiniudn.com/static/uploads/editor/1442505972.png)
+
 I tried to make an explorable solar system, as accurate as possible.
 
 What's in here:
