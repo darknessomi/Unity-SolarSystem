@@ -196,3 +196,5 @@ FakesAssemblies/
 *.opt
 
 Temp/
+
+Library/ShaderCache/
