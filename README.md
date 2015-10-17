@@ -3,6 +3,11 @@ Solar System made in Unity
 
 ![](http://omi-blog.qiniudn.com/static/uploads/editor/1442505972.png)
 
+### Keyboard Entry
+1. W.A.S.D. R.F
+2. Esc F1
+
+### about
 I tried to make an explorable solar system, as accurate as possible.
 
 What's in here:
