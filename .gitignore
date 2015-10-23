@@ -195,13 +195,6 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
+Temp/
 
-# Unity3D generated meta files
-*.pidb.meta
-#
-# # Unity3D Generated File On Crash Reports
-sysinfo.txt
+Library/ShaderCache/
