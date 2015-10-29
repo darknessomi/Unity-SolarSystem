@@ -2,10 +2,18 @@ Solar System made in Unity
 ======================
 
 ![](http://omi-blog.qiniudn.com/static/uploads/editor/1442505972.png)
+![](http://omi-blog.qiniudn.com/static/uploads/editor/1446133056.png)
 
 ### Keyboard Entry
 1. W.A.S.D. R.F
 2. Esc F1
+
+### VR Support
+
+1. Cardboard May 2015 
+2. Cardboard Jun 2014
+3. Google Tech C1
+
 
 ### about
 I tried to make an explorable solar system, as accurate as possible.
